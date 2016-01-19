@@ -9,7 +9,7 @@ $ ./build.sh
 
 Test
 ```sh
-$ ./test.js
+$ ./test.sh
 ```
 
 * Building requires Emscripten development enviroment.

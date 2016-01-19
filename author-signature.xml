@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" id="DistributorSignature">
+ <SignedInfo>
+  <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+  <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+
+
+
+  <Reference URI="#prop">
+   <Transforms>
+    <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+   </Transforms>
+   <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+   <DigestValue>9QgqPsddUzvjhsFaiEQaWs7zgRKifVFnxQ7ps38Ghhs=</DigestValue>
+  </Reference>
+ </SignedInfo>
+ <SignatureValue>Cc/Xr4kw8pSN/Qjpgf6H4cmioLDqdxvQB9CAw0nK88x4x5Oh3EbAXKw+A1YcsLTm
+XMEvlI6/eIs8Tl8D2gPyQe4zHGFy1cHQLZwPs8CHRhXP5djYHUCADZeqxQQWF65l
+efS9ATIhXi5KXbYUMFSv3oqDuWNu2EDyYH+0jUyErquN/BGWz8LE+vY6IhTEINPP
+ITaTsAuPcd4/NGJ1a6ZZam0MMM00vb3f2CI8rTquQQJfT7KMkYiCc+YOZuSz17G8
+4FQdj74M4rP88f0bECRa6xuoZUrN3kWkldyeTpjXZgwqR6+56VcMldoVke5MkFlL
+FD8c6QLjyj+qpL+xKVIR4Q==</SignatureValue>
+ <KeyInfo>
+  <X509Data>
+  </X509Data>
+ </KeyInfo>
+ <Object xmlns="http://www.w3.org/2000/09/xmldsig#" Id="prop">
+ </Object>
+</Signature>
